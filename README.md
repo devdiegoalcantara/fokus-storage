@@ -65,8 +65,6 @@ Agora com o mapa em mãos e as instruções seguras, você está pronto(a) para 
 
 Que os ventos do aprendizado soprem sempre a seu favor, e que você encontre tesouros de conhecimento em cada linha de código. Boa viagem, e até a próxima aventura!
 
-![](https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif)
-
 
 
 
